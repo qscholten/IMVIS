@@ -37,5 +37,5 @@ void GatenLabel::process(void) {
             }
         }
     }
-    cout << "Gaten: " << label << endl;
+    cout << "Gaten: " << label-1 << endl;
 }
